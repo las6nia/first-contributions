@@ -58,15 +58,15 @@ git switch -c <añade tu nombre>
 
 Por ejemplo:
 ```
-git checkout -b add-alonzo-church
+git checkout -b añadir-alonzo-church
 
-git switch -c add-alonzo-church
+git switch -c añadir-alonzo-church
 ```
-(El nombre de la rama no tiene por qué contener la palabra *add*, pero es razonable que lo tenga porque el objetivo de esta rama es añadir tu nombre a la lista.)
+(El nombre de la rama no tiene por qué contener la palabra *añadir*, pero es razonable que lo tenga porque el objetivo de esta rama es añadir tu nombre en la lista.)
 
-## Haz los cambios necesarios y confirma (*Commit*) esos cambios
+## Haz los cambios necesarios y confirma (*Commit*) los cambios
 
-Abre el archivo `Contributors.md` en un editor de texto y añade tu nombre. No lo añadas ni al principio ni al final del archivo, hazlo en cualquier otro sitio. Guarda el archivo.
+Abre el archivo `Contributors.md` en un editor de texto y añade tu nombre. No lo añadas ni al principio ni al final del archivo, hazlo en cualquier otro lugar. Guarda el archivo.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -96,13 +96,13 @@ Reemplaza `<añade-el-nombre-de-la-rama>` con el nombre de la rama que creaste a
 
 Si vas a tu repositorio en GitHub, verás un botón `Compare & pull request`. Haz click sobre el botón.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="crea una pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="crea un pull request" />
 
-Ahora envía la *pull request*.
+Ahora envía el *pull request*.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="enviar la pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="enviar un pull request" />
 
-Pronto estaré fusionando tus cambios (haciendo *merge*) con la rama master de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido fusionados.
+Pronto estaré fusionando tus cambios (haciendo *merge*) con la rama maestra de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido fusionados.
 
 ## ¿Cuáles son los siguientes pasos?
 
@@ -112,7 +112,7 @@ Celebra tu contribución y compártela con tus amigos y seguidores yendo a [web 
 
 Si quieres más práctica, echa un vistazo a [contribuciones de código](https://github.com/roshanjossey/code-contributions).
 
-Ahora empieza a contribuir en otros proyectos. Hemos reunido una lista de proyectos con *issues* sencillas para que puedas empezar. Échale un ojo a la [lista de proyectos en la aplicación web](https://firstcontributions.github.io/#project-list).
+Ahora empieza a contribuir en otros proyectos. Hemos reunido una lista de proyectos con *issues* sencillos para que puedas empezar. Échale un ojo a la [lista de proyectos en la aplicación web](https://firstcontributions.github.io/#project-list).
 
 ### [Material adicional](../additional-material/git_workflow_scenarios/additional-material.md)
 
